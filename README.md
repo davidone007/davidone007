@@ -1,4 +1,4 @@
-Icesi university student
+Systems Engineering student at Icesi University.
 
 <!---
 davidone007/davidone007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
