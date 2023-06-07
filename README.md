@@ -13,7 +13,7 @@ Hello! I'm Davide Flamini, a Systems Engineering student at Icesi University. I 
 
 - **Programming Languages**: Python and Java.
 - **Data Analysis**: Python (NumPy, Pandas, Matplotlib).
-- **Development Tools**: Git, Visual Studio Code, and Collab.
+- **Development Tools**: Git, Visual Studio Code, Collab and Visual Paradigm.
 - **Software engineering design**: UML, design patterns, agile methodologies.
 
 ## Education
