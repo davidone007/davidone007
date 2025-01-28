@@ -11,10 +11,13 @@ Hello! I'm Davide Flamini, a Systems Engineering student at Icesi University. I 
 
 ## Skills
 
-- **Programming Languages**: Python and Java.
+Here’s your updated skills section in English:
+
+- **Programming Languages**: Python, Java, JavaScript.
 - **Data Analysis**: Python (NumPy, Pandas, Matplotlib).
-- **Development Tools**: Git, Visual Studio Code, Collab and Visual Paradigm.
-- **Software engineering design**: UML, design patterns, agile methodologies.
+- **Development Tools**: Git, Visual Studio Code, Collab, Visual Paradigm.
+- **Software Engineering Design**: UML, design patterns, agile methodologies.
+- **Experience**: Worked as a software engineering intern, developing skills in Java, Python, JavaScript, Spring, and Django, working with agile methodologies and real-world projects.
 
 ## Education
 
